@@ -1,0 +1,4 @@
+1. The entire smart contract is built in an IDE with many complex plugin services, yet a very user-friendly environment called REMIX IDE. 
+2. The testing and visualization of the Blocks and transactions is done using GANACHE, a testing tool and Web3 environment Provider.
+3. A Distributed file storage system called IPFS(Inter-Planetary File Storage) where we can store images and documents in a decentralized server, and which can be retrieved using the Cryptographic Hashes generated on the files.
+
